@@ -75,3 +75,4 @@ class anju {
         int row = arr.length / 2;
         return (arr[row][0] + arr[row][1]) / 2;
     }
+}
