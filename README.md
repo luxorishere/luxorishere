@@ -1,0 +1,7 @@
+- 👋 Hi, I’m @luxorishere
+- 👀 I’m interested in data science and machine learning.
+- 🌱 I’m currently learning data structures and algorithms, as well as data analysis techniques.
+- 💞️ I’m looking to collaborate on open-source data science projects.
+- 📫 How to reach me: You can reach me via email at parthsrivastava6112004@example.com.
+- 😄 Pronouns: He/Him
+- ⚡ Fun fact: I enjoy experimenting with new datasets and finding insights through data visualization.
